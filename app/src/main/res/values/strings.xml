@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">American Football Scores App</string>
+    <string name="TeamATextView">Team A</string>
+    <string name="TeamBTextView">Team B</string>
+    <string name="ScoreTextView" translatable="false">0</string>
+    <string name="SixPoints">+6 points</string>
+    <string name="ThreePoints">+3 points</string>
+    <string name="TwoPoints">+2 points</string>
+    <string name="OnePoint">+1 point</string>
+    <string name="ResetButton">reset</string>
+</resources>

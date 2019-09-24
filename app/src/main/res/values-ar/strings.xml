@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">كره القدم الأمريكيه</string>
+    <string name="TeamATextView">فريق أ</string>
+    <string name="TeamBTextView">فريق ب</string>
+    <string name="SixPoints">+6 نقاط</string>
+    <string name="ThreePoints">+3 نقاط</string>
+    <string name="TwoPoints">+ نقطتان</string>
+    <string name="OnePoint">+ نقطه</string>
+    <string name="ResetButton">اعاده العد</string>
+</resources>
