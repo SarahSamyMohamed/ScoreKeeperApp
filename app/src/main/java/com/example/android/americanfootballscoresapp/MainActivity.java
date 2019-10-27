@@ -1,7 +1,7 @@
 package com.example.android.americanfootballscoresapp;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.TextView;
 
@@ -21,7 +21,6 @@ public class MainActivity extends AppCompatActivity {
      */
     public void displayForTeamA(int score) {
         TextView scoreView = findViewById(R.id.team_a_score);
-        //TODO: arabic number formatting
         scoreView.setText(String.valueOf(score));
     }
 
@@ -62,7 +61,6 @@ public class MainActivity extends AppCompatActivity {
      */
     public void displayForTeamB(int score) {
         TextView scoreView = findViewById(R.id.team_b_score);
-        //TODO: arabic number formatting
         scoreView.setText(String.valueOf(score));
     }
 
@@ -107,5 +105,4 @@ public class MainActivity extends AppCompatActivity {
         displayForTeamA(scoreTeamA);
         displayForTeamB(scoreTeamB);
     }
-
 }
